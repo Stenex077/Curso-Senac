@@ -1,4 +1,4 @@
-alert("olá mundo");
+//alert("olá mundo");
 //Variavel quae guarda algo temporariamente
 var nome = "Robertão";
 var idade = 35 ;
@@ -6,14 +6,14 @@ var senha= "1234";
 
 //Estrutura de Condição
 if(idade > 17){
-   alert("pode votar! "+ nome);
+   //alert("pode votar! "+ nome);
 } else{
-    alert("Jacaré vai pra casa!!! "+ nome);
+   // alert("Jacaré vai pra casa!!! "+ nome);
 }
 if(nome == "Robertão" && senha == "123"){
-    alert("login concedido");
+   //alert("login concedido");
 } else{
-    alert("Tente novamente Muchacho!!!");
+    //alert("Tente novamente Muchacho!!!");
 }
 
 //Laço de repetição
