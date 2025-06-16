@@ -4,7 +4,7 @@ var nome = "Robertão";
 var idade = 35 ;
 var senha= "1234";
 
-//Estrutura de Condição
+//Estrutura de Condiçãossss
 if(idade > 17){
    //alert("pode votar! "+ nome);
 } else{
