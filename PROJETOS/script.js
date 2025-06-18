@@ -4,6 +4,8 @@ var nome = "Robertão";
 var idade = 35 ;
 var senha= "1234";
 
+//ALTERADO NO GIT HUB
+
 //Estrutura de Condição
 if(idade > 17){
    alert("pode votar! "+ nome);
