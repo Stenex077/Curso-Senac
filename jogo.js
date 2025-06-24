@@ -9,13 +9,11 @@ function jogar(celula){
         if( idosa == "x"){
             idosa = "o";
             celula.style.backgroundColor = "purple";
-        }else if( idosa == "o"){
-            idosa = "u";
-            celula.style.backgroundColor = "blue";
-        }else if (idosa == "u"){
+        }else{
             idosa = "x";
-            celula.style.backgroundColor = "darkgreen";
-        }
+            celula.style.backgroundColor = "blue";
+        
     }
 
+}
 }
