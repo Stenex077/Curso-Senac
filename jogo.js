@@ -8,15 +8,16 @@ function jogar(celula){
 
         if( idosa == "x"){
             idosa = "o";
+
             celula.style.backgroundColor = "darkred";
         }else{
             idosa = "x"
          celula.style.backgroundColor = "darkblue"
        }
 
-} 
 
 function reiniciar(){
     window.location.reload();
+}
 }
 }
