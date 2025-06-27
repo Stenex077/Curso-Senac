@@ -15,9 +15,10 @@ function jogar(celula){
          celula.style.backgroundColor = "darkblue"
        }
 
-
+    }
+}
 function reiniciar(){
     window.location.reload();
 }
-}
-}
+
+
